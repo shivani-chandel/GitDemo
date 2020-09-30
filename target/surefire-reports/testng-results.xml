@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="68" started-at="2020-08-11T17:24:20 IST" finished-at="2020-08-11T17:24:20 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="68" started-at="2020-08-11T17:24:20 IST" finished-at="2020-08-11T17:24:20 IST">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@5025a98f]" name="browserAutomation" duration-ms="6" started-at="2020-08-11T17:24:20 IST" finished-at="2020-08-11T17:24:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qaclickacademy.SeleniumTest@5025a98f]" name="elementsUI" duration-ms="0" started-at="2020-08-11T17:24:20 IST" finished-at="2020-08-11T17:24:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method status="PASS" signature="elementsUINew()[pri:0, instance:qaclickacademy.SeleniumTest@5025a98f]" name="elementsUINew" duration-ms="1" started-at="2020-08-11T17:24:20 IST" finished-at="2020-08-11T17:24:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUINew -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
